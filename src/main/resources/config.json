@@ -1,0 +1,25 @@
+{
+  "isVertically": true,
+  "panes": [
+    {
+      "isVertically": false,
+      "panes": [
+        {
+          "isVertically": true,
+          "panes": [
+
+          ]
+        },
+        {}
+      ]
+    },
+    {
+      "isVertically": false,
+      "panes": []
+    },
+    {
+      "isVertically": false,
+      "panes": []
+    }
+  ]
+}
